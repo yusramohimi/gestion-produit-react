@@ -1,0 +1,7 @@
+[
+    { "id": 1, "libelle": "Électronique" },
+    { "id": 2, "libelle": "Vêtements" },
+    { "id": 3, "libelle": "Livres" },
+    { "id": 4, "libelle": "Sports" },
+    { "id": 5, "libelle": "Informatique" }
+]
